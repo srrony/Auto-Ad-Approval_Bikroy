@@ -6,7 +6,7 @@ from playwright.async_api import async_playwright, TimeoutError as PWTimeout
 
 # ========== CONFIGURATION ==========
 URLS = [
-    "https://admin.bikroy.com/item/68f8b27a0659bc51e3545c7d",
+    "https://admin.bikroy.com/item/68f8b27a06522345gfdd",
     # Add more links here
 ]
 
